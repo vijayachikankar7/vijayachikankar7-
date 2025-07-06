@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijayachikankar7/vijayachikankar7-/main/VijayaChikankarBanner.jpg" alt="Vijaya Sudhakar Chikankar Banner" width="100%" />
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Vijaya Sudhakar Chikankar</h1>
 <h3 align="center">Full Stack .NET Developer | Passionate about Clean Code, Modern Web Apps, and Continuous Learning</h3>
 
